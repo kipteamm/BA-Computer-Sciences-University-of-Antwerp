@@ -1,9 +1,16 @@
 ## Useful symbols
+- Als en slechts als `⇔`
 - Deelverzameling `⊂`
 - Doorsnede `⋂`
+- Dubbele pijl `⇒`
+- Dubbele pijl met streep door `⇏`
+- Element van `∈`
 - Er bestaat `∃`
+- Gelijk `=`
 - Graden `°`
 - Lege verzameling `∅`
+- Niet gelijk `≠`
+- Reeële getallen `ℝ`  
 - Unie `⋃`
 - Vermenigvuldiging `×`
 - Voor alle `∀`
