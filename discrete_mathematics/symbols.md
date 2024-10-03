@@ -6,10 +6,13 @@
 - Dubbele pijl met streep door `⇏`
 - Element van `∈`
 - Er bestaat `∃`
+- Gehele getallen `ℤ`
 - Gelijk `=`
 - Graden `°`
 - Lege verzameling `∅`
+- Natuurlijke getallen `ℕ`
 - Niet gelijk `≠`
+- Rationale getallen `ℚ`
 - Reeële getallen `ℝ`  
 - Unie `⋃`
 - Vermenigvuldiging `×`
